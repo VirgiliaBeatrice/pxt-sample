@@ -1,4 +1,13 @@
 // Auto-generated from simulator. Do not edit.
+declare namespace touch {
+    /**
+     * Touch Module
+     */
+    //% blockId="touchPad" block="Is Touch Pad %tp touched"
+    //% shim=touch::isTouched
+    function isTouched(tp: TouchPad): boolean;
+
+}
 declare namespace hare {
     /**
      * This is hop

@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "kuma",
+    "name": "KumaRobo",
+    "title": "MakeCode Editor for Kuma Robot Target",
     "corepkg": "core",
     "cloud": {
         "workspace": false,

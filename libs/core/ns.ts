@@ -18,3 +18,11 @@ namespace hare {
 namespace control {
 
 }
+
+/**
+ * Touch Pad Functions
+ */
+//% color=#D4BC00 weight=85
+namespace touch {
+
+}

@@ -18,4 +18,18 @@ declare const enum Hop {
     Astronomical
 }
 
+declare const enum TouchPad {
+    //% block=tp0
+    TP0,
+    //% block=tp1
+    TP1,
+    //% block=tp2
+    TP2
+    // TP3,
+    // TP4,
+    // TP5,
+    // TP6,
+    // TP7,
+    // TP8
+}
 

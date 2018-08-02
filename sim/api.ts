@@ -1,5 +1,16 @@
 /// <reference path="../libs/core/enums.d.ts"/>
 
+namespace pxsim.touch {
+    /**
+     * Touch Module
+     */
+    //% blockId="touchPad" block="Is Touch Pad %tp touched"
+    export function isTouched(tp: TouchPad) {
+        return true
+    }
+}
+
+
 namespace pxsim.hare {
     /**
      * This is hop
